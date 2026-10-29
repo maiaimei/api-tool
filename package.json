@@ -1,0 +1,27 @@
+{
+  "name": "api-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maiaimei/api-tool/issues"
+  },
+  "homepage": "https://github.com/maiaimei/api-tool#readme",
+  "dependencies": {
+    "pinia": "^4.1.0",
+    "sqlite3": "^6.0.1",
+    "vite": "^8.3.5",
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "typescript": "^7.0.2"
+  }
+}
